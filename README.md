@@ -494,7 +494,7 @@ Pet_Adoption_&_Rescue_Platform/
 ## 1. Clone the Repository
 
 ``` bash
-https://github.com/yeaminhossainfuhad-cloud/Pet_Adoption_-_Rescue_Platform.git
+https://github.com/shuvoroydipon-cloud/Pet_Adoption_-_Rescue_Platform.git
 cd Pet_Adoption_-_Rescue_Platform
 ```
 
@@ -659,7 +659,7 @@ Before submitting the project, make sure the repository contains:
 
 # 👨‍💻 Author
 
-**YEAMIN HOSSAIN FUHAD**
+**SHUVO ROY DIPON**
 
 Pet Adoption & Rescue Platform
 
